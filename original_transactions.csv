@@ -1,0 +1,12 @@
+bank,transaction_id,amount
+Bank A,T1001,125.00
+Bank A,T1002,82.50
+Bank A,T1003,310.00
+Bank B,T2001,240.00
+Bank B,T2002,95.75
+Bank B,T2003,410.00
+Bank A,T1004,150.00
+Bank A,T1005,225.00
+Bank A,T1006,325.00
+Bank B,T2004,180.00
+Bank B,T2005,320.00

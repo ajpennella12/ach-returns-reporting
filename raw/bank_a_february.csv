@@ -1,0 +1,4 @@
+return_id,original_transaction_id,return_date,amount,return_code
+A004,T1004,2026-02-03,150.00,R01
+A005,T1005,2026-02-11,225.00,R01
+A006,T1006,2026-02-19,325.00,R02

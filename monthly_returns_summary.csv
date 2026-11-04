@@ -1,0 +1,5 @@
+report_month,bank,return_count,returned_dollars,change_from_prior_month_dollars
+2026-01,Bank A,3,517.50,
+2026-01,Bank B,3,745.75,
+2026-02,Bank A,3,700.00,182.50
+2026-02,Bank B,2,500.00,-245.75
